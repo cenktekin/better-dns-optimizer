@@ -222,4 +222,18 @@ We welcome all kinds of contributions! Feel free to submit pull requests for imp
 
 ## License
 
+This project is a derivative of the original Linux DNS Optimizer project. The original script was developed by [EmersonLopez2005](https://github.com/EmersonLopez2005/Linux-DNS-Optimizer).
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Original Project
+- **Author**: EmersonLopez2005
+- **Source**: https://github.com/EmersonLopez2005/Linux-DNS-Optimizer
+- **License**: MIT
+
+### This Derivative Project
+- **Developer**: cenktekin
+- **Source**: https://github.com/cenktekin/better-dns-optimizer
+- **License**: MIT
+
+This project is an enhanced and extended version of the original project. Respect is shown to the original author's work and gratitude is expressed for their contributions.
