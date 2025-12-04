@@ -101,7 +101,21 @@ Her türlü katkıya açığız! Geliştirmeler, hata düzeltmeleri veya yeni DN
 
 ## Lisans
 
+Bu proje, orijinal Linux DNS Optimizer projesinin bir türevidir. Orijinal script [EmersonLopez2005](https://github.com/EmersonLopez2005/Linux-DNS-Optimizer) tarafından geliştirilmiştir.
+
 Bu proje MIT Lisansı ile lisanslanmıştır - detaylar için [LICENSE](LICENSE) dosyasına bakın.
+
+### Orijinal Proje
+- **Yazar**: EmersonLopez2005
+- **Kaynak**: https://github.com/EmersonLopez2005/Linux-DNS-Optimizer
+- **Lisans**: MIT
+
+### Bu Türev Proje
+- **Geliştirici**: cenktekin
+- **Kaynak**: https://github.com/cenktekin/better-dns-optimizer
+- **Lisans**: MIT
+
+Bu proje, orijinal projenin geliştirilmiş ve genişletilmiş bir sürümüdür. Orijinal yazarın çalışmasına saygı duyulmakta ve katkılarından dolayı teşekkür edilmektedir.
 
 ---
 
